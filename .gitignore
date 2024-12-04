@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+env/
+venv/
+
+# Large data and embeddings
+data/
+embeddings/
+*.npy
+
+# System files
+.DS_Store
+
+# Logs
+*.log

@@ -13,24 +13,6 @@ This project explores **Dynamic Bloom Filters (DBFs)** and the **fine-tuning of 
 
 ---
 
-## Directory Structure
-
-.
-├── bloom_filter.py            # Implements Dynamic Bloom Filter logic
-├── dynamic_bloom_filter.py    # Code for enhanced Bloom Filter capabilities
-├── embedding_generator.py     # Generates embeddings using SentenceTransformer
-├── vector_database.py         # Manages vector space operations with FAISS
-├── preprocessing.py           # Prepares data for training and testing
-├── evaluation.py              # Evaluates fine-tuned models
-├── experiment_latency.py      # Experiments measuring query latency
-├── experiment_recall.py       # Experiments measuring recall
-├── experiment_query_difficulty.py  # Evaluates performance on challenging queries
-├── main.py                    # Entry point for running experiments
-├── README.md                  # Project documentation
-└── requirements.txt           # Python dependencies
-
----
-
 ## Installation
 
 ### Prerequisites

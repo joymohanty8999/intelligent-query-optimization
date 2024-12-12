@@ -59,6 +59,13 @@ This project explores **Dynamic Bloom Filters (DBFs)** and the **fine-tuning of 
 To run the full suite of experiments:
 
 ```bash
+python main.py
+```
 
-    python main.py
+#### Interactive Query Mode
+
+To test the semantic search with interactive queries:
+
+```bash
+python interactive_query.py
 ```
